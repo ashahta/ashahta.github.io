@@ -1,0 +1,46 @@
+main {
+    max-width: 800px;
+    margin: auto;
+    background-color: #EFB092
+}
+body {
+  color: #EFB092; 
+}
+.title {
+    text-align: center;
+    color: #585b58; 
+    font-family: 'Cormorant Upright', serif;
+}
+.intro {
+    text-align: center;
+    color: #585b58;
+    font-family: 'Raleway', sans-serif; 
+}
+.ashNav {
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    background-color: #EFB092;
+    border-radius: 10px
+    font-family: 'Cormorant Upright', serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal; 
+    line-height: 1.3em;
+}
+.ashNav ul {
+    list-style: none;
+    padding: 10%;
+    margin-top: 80px;
+}
+.ashNav li {
+    float: left
+}
+.ashNav li a {
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+
