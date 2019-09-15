@@ -43,6 +43,7 @@ body {
 }
 .caption {
     font-family: 'Raleway', sans-serif;
+    font-style: italic;
     color: #585b58;
     text-align: center;
 }
