@@ -10,6 +10,7 @@ body {
     text-align: center;
     color: #585b58; 
     font-family: 'Cormorant Upright', serif;
+    font-size: 50px;
 }
 .intro {
     text-align: center;
@@ -47,4 +48,11 @@ img {
     font-style: italic;
     color: #585b58;
     text-align: center;
+}
+.list {
+    border-style: double;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: #089CE1;
 }
