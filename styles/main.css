@@ -38,8 +38,9 @@ body {
 .ashNav li a:hover {
     background-color: #9B84ED;
   }
-.screencap {
-    width: 100px;
+img {
+    max-width: 100%;
+    height: auto;
 }
 .caption {
     font-family: 'Raleway', sans-serif;
