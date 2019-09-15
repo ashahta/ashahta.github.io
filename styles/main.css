@@ -4,14 +4,14 @@ main {
     background-color: #EFB092
 }
 body {
-  color: #EFB092; 
+  background-color: #EFB092; 
 }
 .title {
     text-align: center;
     color: #585b58; 
     font-family: 'Cormorant Upright', serif;
 }
-.intro {
+.about-me {
     text-align: center;
     color: #585b58;
     font-family: 'Raleway', sans-serif; 
