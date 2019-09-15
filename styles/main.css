@@ -16,31 +16,25 @@ body {
     color: #585b58;
     font-family: 'Raleway', sans-serif; 
 }
-.ashNav {
-    display: block;
-    height: 50px;
-    line-height: 50px;
-    background-color: #EFB092;
-    border-radius: 10px;
-    font-family: 'Cormorant Upright', serif;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: normal;
-    letter-spacing: normal; 
-    line-height: 1.3em;
-}
 .ashNav ul {
-    list-style: none;
-    padding: 10%;
-    margin-top: 80px;
-}
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #EFB092;
+  }
 .ashNav li {
-    float: left
-}
+    float: left;
+  }
+  
 .ashNav li a {
-    display: inline-block;
+    display: block;
+    color: #585b58;
     text-align: center;
     padding: 14px 16px;
-}
-
+    text-decoration: none;
+  }
+.ashNav li a:hover {
+    background-color: #9B84ED;
+  }
 
