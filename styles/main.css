@@ -6,17 +6,20 @@ main {
 body {
   background-color: #EFB092; 
 }
-.title {
+h1 {
     text-align: center;
     color: #585b58; 
     font-family: 'Cormorant Upright', serif;
-    font-size: 50px;
 }
-.intro {
+h2 {
+    text-align: center;
+    color: #585b58; 
+    font-family: 'Cormorant Upright', serif, bold;
+}
+p {
     text-align: center;
     color: #585b58;
     font-family: 'Raleway', sans-serif;
-    font-size: 20px;
 }
 .ashNav ul {
     list-style-type: none;
@@ -40,8 +43,12 @@ body {
     background-color: #9B84ED;
   }
 img {
-    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
     height: auto;
+    
 }
 .caption {
     font-family: 'Raleway', sans-serif;
@@ -51,8 +58,15 @@ img {
 }
 .list {
     border-style: double;
-    border-width: 3px;
+    border-width: 5px;
     border-left-width: 10px;
     border-right-width: 10px;
     border-color: #089CE1;
+    font-family: 'Raleway', sans-serif; 
+    color:  #585b58;
+}
+.table {
+    border: medium groove #9B84ED;
+    font-family: 'Raleway', sans-serif;
+    color:  #585b58;
 }
