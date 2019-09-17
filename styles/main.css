@@ -1,116 +1,130 @@
 main {
-    max-width: 800px;
-    margin: auto;
-    background-color: #EFB092
+  max-width: 800px;
+  margin: auto;
+  background-color: #EFB092
 }
+
 body {
-  background-color: #EFB092; 
+  background-color: #EFB092;
 }
+
 h1 {
-    text-align: center;
-    color: #585b58; 
-    font-family: 'Cormorant Upright', serif;
+  text-align: center;
+  color: #585b58;
+  font-family: 'Cormorant Upright', serif;
 }
+
 h2 {
-    text-align: center;
-    color: #585b58; 
-    font-family: 'Cormorant Upright', serif, bold;
+  text-align: center;
+  color: #585b58;
+  font-family: 'Cormorant Upright', serif, bold;
 }
+
 p {
-    text-align: center;
-    color: #585b58;
-    font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: #585b58;
+  font-family: 'Raleway', sans-serif;
 }
+
 .ashNav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #EFB092;
-  }
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #EFB092;
+}
+
 .ashNav li {
-    float: left;
-  }
-  
+  float: left;
+}
+
 .ashNav li a {
-    display: block;
-    color: #585b58;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
+  display: block;
+  color: #585b58;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
 .ashNav li a:hover {
-    background-color: #9B84ED;
-  } 
+  background-color: #9B84ED;
+}
+
 .dropdown {
-    float: left;
-    overflow: hidden;
-  }
+  float: left;
+  overflow: hidden;
+}
+
 .dropdown .dropbtn {
-    font-size: 16px;  
-    border: none;
-    outline: none;
-    color: white;
-    padding: 14px 16px;
-    background-color: inherit;
-    font-family: inherit;
-    margin: 0;
-  }
-  
-.navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #9B84ED;
-  }
-  
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover,
+.dropdown:hover .dropbtn {
+  background-color: #9B84ED;
+}
+
 .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #9B84ED;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
+  display: none;
+  position: absolute;
+  background-color: #9B84ED;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
 .dropdown-content a {
-    float: none;
-    color: #585b58;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-  }
-  
+  float: none;
+  color: #585b58;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
 .dropdown-content a:hover {
-    background-color: salmon;
-  }
-  
+  background-color: salmon;
+}
+
 .dropdown:hover .dropdown-content {
-    display: block;
-  }
+  display: block;
+}
+
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 50%;
-    height: auto;
-    
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  height: auto;
+
 }
+
 .caption {
-    font-family: 'Raleway', sans-serif;
-    font-style: italic;
-    color: #585b58;
-    text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-style: italic;
+  color: #585b58;
+  text-align: center;
 }
+
 .list {
-    border-style: double;
-    border-width: 5px;
-    border-left-width: 10px;
-    border-right-width: 10px;
-    border-color: #089CE1;
-    font-family: 'Raleway', sans-serif; 
-    color:  #585b58;
+  border-style: double;
+  border-width: 5px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-color: #089CE1;
+  font-family: 'Raleway', sans-serif;
+  color: #585b58;
 }
+
 .table {
-    border: medium groove #9B84ED;
-    font-family: 'Raleway', sans-serif;
-    color:  #585b58;
+  border: medium groove #9B84ED;
+  font-family: 'Raleway', sans-serif;
+  color: #585b58;
 }
