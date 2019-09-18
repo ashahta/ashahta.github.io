@@ -23,10 +23,15 @@ h2 {
 }
 
 p {
-  text-align: center;
+  text-align: justify;
   color: #585b58;
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
+}
+ol {
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  color: #585b58;
 }
 
 .ashNav ul {
@@ -125,7 +130,6 @@ img {
   font-family: 'Raleway', sans-serif;
   color: #585b58;
 }
-
 .table {
   border: medium groove #9B84ED;
   font-family: 'Raleway', sans-serif;
