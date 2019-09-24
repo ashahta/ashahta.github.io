@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "/Users/ashleighahta/Dev-Academy/ashahta-blog/ashahta.github.io"
+		}
+	],
+	"settings": {
+		"cSpell.enabledLanguageIds": [
+			"Log",
+			"asciidoc",
+			"c",
+			"coffeescript",
+			"cpp",
+			"csharp",
+			"css",
+			"git-commit",
+			"go",
+			"groovy",
+			"handlebars",
+			"haskell",
+			"html",
+			"jade",
+			"java",
+			"javascript",
+			"javascriptreact",
+			"json",
+			"jsonc",
+			"latex",
+			"less",
+			"log",
+			"markdown",
+			"php",
+			"plaintext",
+			"pug",
+			"python",
+			"restructuredtext",
+			"rust",
+			"scala",
+			"scss",
+			"text",
+			"typescript",
+			"typescriptreact",
+			"yaml",
+			"yml"
+		]
+	}
+}
