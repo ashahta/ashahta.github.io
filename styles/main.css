@@ -49,6 +49,12 @@ ul {
   color: #585b58;
   text-align: center;
 }
+.liPara {
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  color: #585b58;
+  text-align: justify;
+
 .ashNav ul {
   list-style-type: none;
   margin: 0;
