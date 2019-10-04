@@ -118,6 +118,9 @@ img {
   height: auto;
 
 }
+#images {
+  text-align: center
+}
 
 .caption {
   font-family: 'Raleway', sans-serif;
@@ -140,6 +143,7 @@ img {
   font-family: 'Raleway', sans-serif;
   color: #585b58;
 }
+
 blockquote{
   font-size: 1.4em;
   width:60%;
