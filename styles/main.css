@@ -21,6 +21,11 @@ h2 {
   color: #585b58;
   font-family: 'Cormorant Upright', serif, bold;
 }
+h3 {
+  text-align: center;
+  color: #585b58;
+  font-family: 'Cormorant Upright', serif, bold;
+}
 
 p {
   text-align: justify;
@@ -38,7 +43,12 @@ ol {
   color: #585b58;
   text-align: center;
 }
-
+ul {
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  color: #585b58;
+  text-align: center;
+}
 .ashNav ul {
   list-style-type: none;
   margin: 0;
